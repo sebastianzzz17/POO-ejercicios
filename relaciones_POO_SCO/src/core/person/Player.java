@@ -32,9 +32,7 @@ public class Player {
         return "Player{" + "name=" + name + '}';
     }
 
-    public void setChess(Chess aThis) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
+ 
     
     
 }
